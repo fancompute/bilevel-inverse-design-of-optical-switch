@@ -2,7 +2,7 @@
 
 Code for Inverse Design of Optical Switch Based on Bilevel Optimization Inspired by Meta-Learning.
 
-This repository contains two Colab notebooks, demonstrating a compact design of 1-to-3 optical switch with:
+This repository contains two Colab notebooks, demonstrating two compact designs of 1-to-3 optical switch respectively with:
 1. two small disk regions where the dielectric can be significantly varied
 2. the whole design regions where the dielectric can be varied only a little
 
